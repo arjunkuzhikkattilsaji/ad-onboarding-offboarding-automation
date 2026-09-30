@@ -6,7 +6,7 @@ from CSV input, built and tested in a self-hosted hybrid-style IT lab.
 ## Overview
 
 Manually onboarding and offboarding employees in Active Directory is repetitive and 
-error-prone — missed group assignments, inconsistent naming, forgotten access removal 
+error-prone missed group assignments, inconsistent naming, forgotten access removal 
 on exit are common real-world IT risks. This project automates that process end-to-end, 
 with input validation, error handling, and full audit logging.
 
